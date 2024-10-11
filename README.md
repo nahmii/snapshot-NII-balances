@@ -1,4 +1,4 @@
-# Snapshot Nii Balances
+# Snapshot NII Balances
 
 
 This repository contains snapshots taken at various block as part of the process for re-issuing our token. It includes token allocations/ balance information for addresses across different layers and platforms. 
