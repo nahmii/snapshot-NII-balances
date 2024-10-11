@@ -3,7 +3,7 @@
 
 This repository contains snapshots taken at various block as part of the process for re-issuing our token. It includes token allocations/ balance information for addresses across different layers and platforms. 
 
-we took snapshot at the following blocks
+We took snapshot at the following blocks
 
 ```
 Ethereum: 20780057
